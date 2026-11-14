@@ -1,0 +1,14 @@
+{
+  "id": "concept-04-hung-anti",
+  "name": "Concept 04 · Hung Anti (Mẫu Le Parc Place — Standalone Direct MP4)",
+  "version": "1.0.0",
+  "status": "approved",
+  "approved_date": "2026-11-14",
+  "approved_master_version": "v8",
+  "minApp": "0.2.2",
+  "aspect": "9:16",
+  "fps": 30,
+  "resolution": "1080x1920",
+  "engine": "direct-mp4",
+  "cli": "scripts/hung_engine.py"
+}

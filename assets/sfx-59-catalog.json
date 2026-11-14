@@ -1,0 +1,102 @@
+{
+  "sfx_root": "C:\\About Me\\TÀI NGUYÊN DỰNG\\SFX",
+  "packs": {
+    "TS1": "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 1",
+    "TS2": "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 2"
+  },
+  "master_loudness_target_lufs": -14.8,
+  "true_peak_ceiling_dbtp": -1.2,
+  "bgm_dynamic_ducking_db": -2.8,
+  "rule": "Use minimum 45–60 unique non-repeating SFX files across the timeline (0% duplicate file paths). Sync to exact visual & word triggers.",
+  "categories": {
+    "1_light_leak_flares_and_risers": {
+      "peak_db_range": [-14.0, -16.5],
+      "files": [
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 2\\Riser\\ShortRiser1.wav",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 2\\Riser\\ShortRiser2.wav",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 2\\Riser\\ShortRiser3.wav",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 2\\Riser\\ShortRiser4.wav",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 2\\Riser\\ShortRiser5.wav",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 2\\Film Burn\\Film Burn1.wav",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 2\\Film Burn\\Film Burn2.wav",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 2\\Film Burn\\Film Burn3.wav",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 2\\Film Burn\\Film Burn4.wav",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 1\\Extras\\Sunflare.wav",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 1\\Extras\\Sunflare2.wav"
+      ]
+    },
+    "2_whip_and_zoom_transitions": {
+      "peak_db_range": [-14.0, -16.2],
+      "files": [
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 1\\Whoosh\\Quick Whoosh.wav",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 1\\Whoosh\\Whoosh Impact.wav",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 1\\Whoosh\\Fluid Whoosh.wav",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 1\\Whoosh\\Low Whoosh.wav",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 1\\Whoosh\\Deep Low Whoosh.wav",
+        "Transition Sound Effects\\Whip Sound Effect ( By Ashish Editz )_01.mp3",
+        "Transition Sound Effects\\Whip 2 Sound Effect ( By Ashish Editz )_01.mp3",
+        "Swoosh\\SFX- Swoosh03.mp3",
+        "Swoosh\\SFX- Swoosh07.mp3",
+        "Swoosh\\SFX- Swoosh12.mp3",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 2\\Whooshes\\Whoosh2.wav",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 2\\Whooshes\\Whoosh5.wav",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 2\\Whooshes\\Whoosh8.wav"
+      ]
+    },
+    "3_gold_keytext_hits_and_pops": {
+      "peak_db_range": [-14.5, -15.8],
+      "files": [
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 1\\Hits\\Subtle Hit.wav",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 1\\Hits\\Take it Easy.wav",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 1\\Hits\\Sun Ray.wav",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 1\\Hits\\Slow Hit.wav",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 1\\Hits\\Beneath.wav",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 1\\Clicks\\Pop Flash.wav",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 1\\Clicks\\Pop Flash 2.wav",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 1\\Extras\\Glass Cling.wav",
+        "HAY DÙNG\\02 Message.mp3",
+        "HAY DÙNG\\06 Sonar ping.mp3",
+        "HAY DÙNG\\07 Claim.mp3"
+      ]
+    },
+    "4_calligraphy_and_magic_brush_sweeps": {
+      "peak_db_range": [-15.8, -17.2],
+      "files": [
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 1\\Whoosh\\Fabric Whoosh.wav",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 1\\Whoosh\\Clean Whoosh.wav",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 1\\Whoosh\\Short Deep Whoosh.wav",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 2\\Magic\\Magic  (1).mp3",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 2\\Magic\\Magic  (2).mp3",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 2\\Magic\\Magic  (3).mp3",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 2\\Magic\\Magic  (4).mp3"
+      ]
+    },
+    "5_contract_paper_and_ui_pill_reveals": {
+      "peak_db_range": [-15.5, -17.0],
+      "files": [
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 2\\Paper\\Paper (2).wav",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 2\\Paper\\Paper (3).wav",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 2\\Paper\\Paper (4).wav",
+        "HAY DÙNG\\04 Ui Opening.wav",
+        "HAY DÙNG\\03 Interface reveal.wav",
+        "Ui Sound\\SFX- Ui01.mp3",
+        "Ui Sound\\SFX- Ui02.mp3",
+        "Ui Sound\\SFX- Ui03.mp3",
+        "Ui Sound\\SFX- Ui05.mp3",
+        "Ui Sound\\SFX- Ui06.mp3",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 1\\Clicks\\Touch Screen Click.wav",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 1\\Clicks\\Touch Screen Click 2.wav",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 1\\Clicks\\Sequence Click.wav",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 1\\Clicks\\Click.wav",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 1\\Clicks\\Click2.wav",
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 1\\Clicks\\Quick Shutter 2.wav"
+      ]
+    },
+    "6_luxury_outdoor_ambience": {
+      "peak_db_range": [-23.5, -25.0],
+      "files": [
+        "5. Sound Effect\\Bộ Bảo Hay Dùng\\theSOUNDS 1\\Extras\\Birds.wav"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "concept-04-hung-anti",
+  "order": 40,
+  "enabled": true,
+  "name": "Concept 04 · Hung Anti",
+  "short_name": "Concept 04 · Hung Anti",
+  "slash": "/concept-04-hung-anti",
+  "subtitle": "KeyText chơi chữ đa màu, Carbon Pill & Olive Box viết tay lụa, 59 SFX Studio, -14.8 LUFS",
+  "badge": "Standalone GPU",
+  "sample_key": "concept_04",
+  "demo_video": "c:/HUB_NUSYCO_ A.I_AGENT/6. OUTPUT - LƯU TRỮ THÀNH QUẢ/MEDIA/2026-11-14_Concept-04-Hung-Anti_Le-Parc-Place_DA-DUYET/2026-11-14_Le-Parc-Place_Slot-Do-Xe-Dinh-Danh_v8_DA-DUYET.mp4",
+  "starter_prompt": "/concept-04-hung-anti Dựng video BĐS dọc 9:16 theo chuẩn Concept 04 - Hung Anti từ thư mục source:",
+  "version": "1.0.0"
+}
